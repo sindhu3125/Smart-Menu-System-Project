@@ -1,4 +1,3 @@
-# Smart-Menu-System-Project
 Smart Menu System - Python + MySQL
 
 🔹 Console-based application for managing a restaurant food menu  
